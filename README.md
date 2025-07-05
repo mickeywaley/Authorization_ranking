@@ -8,9 +8,12 @@
 ----
 
 界面
-
+--
 
 <img src="https://raw.githubusercontent.com/mickeywaley/Authorization_ranking/refs/heads/main/01.png"  />
 
+----
+
 <img src="https://raw.githubusercontent.com/mickeywaley/Authorization_ranking/refs/heads/main/02.png"  />
 
+----
